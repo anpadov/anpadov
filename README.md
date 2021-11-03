@@ -16,7 +16,7 @@
 [<img align="left" alt="anpadov | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="anpadov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="anpadov | IMDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][IMDB]
-[<img align="left" alt="anpadov | KinoPoisk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kinopoisk.svg" />][kinopoisk]
+[<img align="left" alt="anpadov | KinoPoisk" width="22px" src="https://simpleicons.org/icons/kinopoisk.svg" />][kinopoisk]
 [<img align="left" alt="anpadov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="anpadov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anpadov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

@@ -21,6 +21,8 @@
 [<img align="left" alt="anpadov | YouTube" width="22px"   src="https://simpleicons.org/icons/youtube.svg"   />][youtube]
 [<img align="left" alt="anpadov | Twitter" width="22px"   src="https://simpleicons.org/icons/twitter.svg"   />][twitter]
 [<img align="left" alt="anpadov | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anpadov | Instagram" width="22px" src="https://purepng.com/download/VPnVRlo9G0KlLHfBe1Isl9u4mRsNQaihGNJzyP6mM0PRJETPe7363OSa2uyylA8r6hlzNJflOUuWyrJaOP7eabq4jrhUEMCBZfjGAJFxyZpo3xixzj4ZAiZIizFV7KmYqMeixdRaIhC3NETRsqXhuXKMkZKl4HT6yKeNMwVgTNZu7TZtaFbkBb213D9BQvIchSlhPAvN/large" />][instagram]
+
 
 [spotify]: https://open.spotify.com/user/31le3xtxzs4chgvdh6axm6rwnouq
 [vk]: https://vk.com/anpadov

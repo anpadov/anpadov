@@ -2,9 +2,6 @@
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact"/>
 
-<br><br/>
-<br><br/>
-
 ### Social media:
 
 [<img align="left" alt="anpadov | Spotify" width="22px"   src="https://simpleicons.org/icons/spotify.svg"   />][spotify]

@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<br><br/>
-
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact"/>
 
-<br><br/>
-<br><br/>
 <br><br/>
 <br><br/>
 

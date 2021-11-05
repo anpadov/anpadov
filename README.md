@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&langs_count=6&theme=graywhite"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&langs_count=6&theme=merko"/>
 
 ### Social media:
 

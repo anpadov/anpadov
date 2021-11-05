@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anpadov&theme=discord_old_blurple"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact"/>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact"/>
 
 <br><br/>
 <br><br/>

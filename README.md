@@ -13,7 +13,7 @@
 [<img align="left" alt="anpadov | Twitter" width="22px"   src="https://simpleicons.org/icons/twitter.svg"   />][twitter]
 [<img align="left" alt="anpadov | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="anpadov | Exophase" width="22px"  src="https://simpleicons.org/icons/youtubegaming.svg" />][exophase]
-[<img align="left" alt="anpadov | Exophase" width="22px"  src="https://myshows.me/favicon.ico" />][exophase]
+[<img align="left" alt="anpadov | MyShows" width="22px"   src="https://myshows.me/favicon.ico" />][myshows]
 
 
 [spotify]: https://open.spotify.com/user/31le3xtxzs4chgvdh6axm6rwnouq
@@ -25,4 +25,4 @@
 [youtube]: https://www.youtube.com/channel/UCIEjhC52VdKoNbsO1xHyATw
 [instagram]: https://www.instagram.com/anpadov
 [exophase]: https://www.exophase.com/user/anpadov/
-
+[myshows]: https://myshows.me/anpadov

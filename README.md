@@ -5,8 +5,8 @@
 ### Social media:
 
 [<img align="left" alt="anpadov | Spotify" width="22px"   src="https://simpleicons.org/icons/spotify.svg"   />][spotify]
-[<img align="left" alt="anpadov | VK" width="22px"        src="https://simpleicons.org/icons/vk.svg"        />][vk]
-[<img align="left" alt="anpadov | IMDB" width="22px"      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][IMDB]
+[<img align="left" alt="anpadov | VK" width="22px"        src="https://vk.com/images/icons/favicons/fav_logo.ico?6"        />][vk]
+[<img align="left" alt="anpadov | IMDB" width="22px"      src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" />][IMDB]
 [<img align="left" alt="anpadov | KinoPoisk" width="22px" src="https://simpleicons.org/icons/kinopoisk.svg" />][kinopoisk]
 [<img align="left" alt="anpadov | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="anpadov | YouTube" width="22px"   src="https://simpleicons.org/icons/youtube.svg"   />][youtube]

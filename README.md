@@ -10,7 +10,7 @@
 [<img align="left" alt="anpadov | YouTube" width="22px"   src="https://simpleicons.org/icons/youtube.svg"   />][youtube]
 [<img align="left" alt="anpadov | Twitter" width="22px"   src="https://simpleicons.org/icons/twitter.svg"   />][twitter]
 [<img align="left" alt="anpadov | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" alt="anpadov | Exophase" width="22px"  src="gamepad-svgrepo-com (2).svg" />][exophase]
+[<img align="left" alt="anpadov | Exophase" width="22px"  src="gamepad-svgrepo-com (3).svg" />][exophase]
 [<img align="left" alt="anpadov | MyShows" width="22px"   src="tv-svgrepo-com (1).svg" />][myshows]
 [<img align="left" alt="anpadov | IMDB" width="22px"      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][IMDB]
 [<img align="left" alt="anpadov | KinoPoisk" width="22px" src="https://simpleicons.org/icons/kinopoisk.svg" />][kinopoisk]

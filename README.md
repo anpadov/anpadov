@@ -9,6 +9,7 @@
 [<img align="left" alt="anpadov | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="anpadov | YouTube" width="22px"   src="https://simpleicons.org/icons/youtube.svg"   />][youtube]
 [<img align="left" alt="anpadov | Twitter" width="22px"   src="https://simpleicons.org/icons/twitter.svg"   />][twitter]
+[<img align="left" alt="anpadov | Twitter" width="22px"   src="https://simpleicons.org/icons/twitter.svg"   />][twitter2]
 [<img align="left" alt="anpadov | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="anpadov | Exophase" width="22px"  src="gamepad-svgrepo-com (3).svg" />][exophase]
 [<img align="left" alt="anpadov | MyShows" width="22px"   src="tv-svgrepo-com (1).svg" />][myshows]
@@ -22,6 +23,7 @@
 [kinopoisk]: https://www.kinopoisk.ru/user/36221049
 [goodreads]: https://www.goodreads.com/anpadov
 [twitter]: https://twitter.com/navatno
+[twitter2]: https://twitter.com/anpadov
 [youtube]: https://www.youtube.com/channel/UCIEjhC52VdKoNbsO1xHyATw
 [instagram]: https://www.instagram.com/anpadov
 [exophase]: https://www.exophase.com/user/anpadov/

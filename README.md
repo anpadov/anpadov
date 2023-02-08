@@ -2,8 +2,9 @@
 
 
 
+<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&theme=react"/>
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&langs_count=4&theme=vue"/>
+
 
 ### Social media:
 

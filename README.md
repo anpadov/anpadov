@@ -1,6 +1,6 @@
 <img src="hi-there.png">
-
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&theme=react"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=anpadov&theme=prussian&show_icons=true"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&theme=prussian"/>
 
 
 

@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+<img src="hi-there.png">
 
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpadov&layout=compact&theme=react"/>
 
